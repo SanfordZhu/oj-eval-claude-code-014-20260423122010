@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+code
+test_*.py
+test_minimal
+test_minimal.cpp
+*.o
+*.a
+Makefile
+cmake_install.cmake
